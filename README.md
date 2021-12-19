@@ -4,6 +4,7 @@ Simple and unofficial extension used to display the rank of some nft within coll
 
 Collection supported yet:
 * PsychoKitties
+* Loaded Lions
 
 [Download the extension](https://chrome.google.com/webstore/detail/bpjllcbeenkddkiihohmgdkmbdhgmmli)
 
