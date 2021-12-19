@@ -1,0 +1,17 @@
+{
+  "name": "Crypto.com - NFT Rank displayer",
+  "description": "__MSG_description__",
+  "version": "1.0.0",
+  "icons": {
+    "128": "data/img/icon128.png"
+  },
+  "default_locale": "en",
+  "content_scripts":[{
+    "matches" : ["https://crypto.com/nft/*"],
+    "js" : ["data/js/main.js"]
+  }],
+  "web_accessible_resources": [
+    "data/collections/*.json"
+  ],
+  "manifest_version": 2
+  }
