@@ -10,8 +10,5 @@
     "matches" : ["https://crypto.com/nft/*"],
     "js" : ["data/js/main.js"]
   }],
-  "web_accessible_resources": [
-    "data/collections/*.json"
-  ],
   "manifest_version": 2
   }
