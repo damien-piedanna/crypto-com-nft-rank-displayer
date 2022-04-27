@@ -2,9 +2,15 @@
 
 Simple and unofficial extension used to display the rank of some nft within collections on the nft platform of crypto.com.
 
-Collection supported yet:
-* PsychoKitties
+Collection supported:
+* AlphaBot
+* ArmoryWeapon
+* Ballie
+* BeatHeadz
 * Loaded Lions
+* MadHare
+* PsychoKitties
+* PsychoMolly
 
 [Download the extension](https://chrome.google.com/webstore/detail/bpjllcbeenkddkiihohmgdkmbdhgmmli)
 
